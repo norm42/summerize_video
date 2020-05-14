@@ -7,4 +7,4 @@ Python Files
 | createhtml.py    | Scans video and image directories and generates html for the flask server. |
 | imagelist.py     | Flask server code.                                           |
 
-Note that the dbxlib.py file does not contain my dropbox TOKEN for my dropbox app.  You will either need to modify the code to use a file system that contains the video files or create your own dropbox app.
+Note that the dbxlib.py (renamed dbxlib_notoken.py) file does not contain my dropbox TOKEN for my dropbox app.  You will either need to modify the code to use a file system that contains the video files or create your own dropbox app.
